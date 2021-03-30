@@ -1,0 +1,4 @@
+﻿  EscapeRoom.cpp
+C:\Users\zachl\Documents\Escape Room\EscapeRoom.cpp(100,15): warning C4101: 'event': unreferenced local variable
+C:\Users\zachl\Documents\Escape Room\EscapeRoom.cpp(533,27): warning C4018: '>=': signed/unsigned mismatch
+  Escape Room.vcxproj -> C:\Users\zachl\Documents\Escape Room\Debug\Escape Room.exe
