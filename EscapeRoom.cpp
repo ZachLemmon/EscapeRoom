@@ -186,7 +186,7 @@ int main()
                     {
                         if (toUpper(playerText.getString()) == "HELP")
                         {
-                            messageText.setString("Available commands are: USE <OBJECT> WITH <OBJECT>; LOOK <OBJECT>; CHECK <OBJECT> EXIT.");
+                            messageText.setString("Available commands are:\nUSE <OBJECT> WITH <OBJECT>,\nLOOK <OBJECT>, CHECK <OBJECT>,\nEXIT.");
 
                             playerInput = "";
                             playerText.setString(playerInput);
