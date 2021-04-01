@@ -385,7 +385,7 @@ void game()
     gameText.setCharacterSize(30);
     gameText.setOrigin(gameText.getLocalBounds().width / 2.0f, gameText.getLocalBounds().height / 2.0f);
     gameText.setPosition(width / width + 50, height / height + 30);
-    gameText.setString("You find yourself locked in a room. In it, there is a door with \ntwo different coloured locks on it. One lock is coloured blue, \nand the other is coloured red. There is also a chest with a \nweird looking lock on it, a cabinet, and a cupboard.");
+    gameText.setString("You find yourself locked in a room. In it, there is a door with \ntwo different coloured locks on it. One lock is coloured blue,\nand the other is coloured red. There is also a chest, a cabinet,\nand a cupboard.");
 
     messageText.setFont(font);
     messageText.setCharacterSize(30);
